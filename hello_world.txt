@@ -1,0 +1,1 @@
+This is my first repo! I am learning Web Development. Thanks to The Odin Project!
